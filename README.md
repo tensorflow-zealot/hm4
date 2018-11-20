@@ -3,4 +3,4 @@
 tensorflow
 
 
-My link https://tensorflow-zealot.github.io/
+My link https://tensorflow-zealot.github.io/tensorflow-zealot
