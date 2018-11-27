@@ -8,12 +8,16 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'About two o’clock the mist cleared away, and we beheld, stretched out',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'Among the musical disciples who assembled, one evening in each week,',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.'      
+      'Mary had neither genius nor taste; and though vanity had given her',
+  'example4':
+      'The air was filled with phantoms, wandering hither'
 };
+
+
 
 function status(statusText) {
   console.log(statusText);
